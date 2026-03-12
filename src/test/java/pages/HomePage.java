@@ -15,7 +15,7 @@ public class HomePage {
         PageFactory.initElements(driver,this);
     }
 
-    @FindBy(xpath="//input[@data-aut-id='searchBox']")
+    @FindBy(xpath = "//input[@data-aut-id='searchBox']")
     WebElement searchBox;
 
     // Method to close popup if it appears

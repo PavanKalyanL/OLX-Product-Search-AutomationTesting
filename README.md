@@ -60,6 +60,7 @@ Utility Classes (Wait, Screenshot, Logger)
      ↓
 Selenium WebDriver
 ## 📁 Project Structure
+```
 OLX-Automation
 │
 ├── src
@@ -88,6 +89,7 @@ OLX-Automation
 ├── testng.xml
 ├── pom.xml
 └── README.md
+```
 ## 🧪 Test Scenario
 Test Case ID	Scenario	Expected Result
 TC_01	Open OLX Homepage	Page loads successfully
